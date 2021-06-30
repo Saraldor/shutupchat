@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334938498705",
+    "firebase_url": "https://chatshut-73599-default-rtdb.firebaseio.com",
+    "project_id": "chatshut-73599",
+    "storage_bucket": "chatshut-73599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334938498705:android:84c5aabe28df0498b14130",
+        "android_client_info": {
+          "package_name": "com.pd.shutup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334938498705-3rkk5aqcha1qvr7pidr8qu9u881v8236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC661mhAtU011ts4y-xplHVbFRmmKAXwiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334938498705-3rkk5aqcha1qvr7pidr8qu9u881v8236.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
