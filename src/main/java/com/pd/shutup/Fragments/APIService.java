@@ -12,7 +12,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AIzaSyC661mhAtU011ts4y-xplHVbFRmmKAXwiQ"
+                    "Authorization:key="
             }
     )
 
